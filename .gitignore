@@ -1,3 +1,8 @@
 .env
 .vscode
 node_modules/
+__pycache__/
+*.bak
+*.mp4
+*.webm
+video/

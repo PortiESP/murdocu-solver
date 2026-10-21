@@ -1,0 +1,100 @@
+[
+  {
+    "person": "A",
+    "constraints": [
+      {
+        "kind": "area_has_object",
+        "negated": false,
+        "obj": "box"
+      },
+      {
+        "kind": "beside_object",
+        "negated": true,
+        "obj": "box"
+      }
+    ]
+  },
+  {
+    "person": "B",
+    "constraints": [
+      {
+        "kind": "in_area",
+        "negated": false,
+        "area": "BEDROOM"
+      }
+    ]
+  },
+  {
+    "person": "C",
+    "constraints": [
+      {
+        "kind": "area_has_person",
+        "negated": false,
+        "gender": "man",
+        "obj": "bed",
+        "relation": "on"
+      }
+    ]
+  },
+  {
+    "person": "D",
+    "constraints": [
+      {
+        "kind": "area_has_person",
+        "negated": false,
+        "obj": "shelf",
+        "relation": "beside"
+      }
+    ]
+  },
+  {
+    "person": "E",
+    "constraints": [
+      {
+        "kind": "in_row",
+        "negated": false,
+        "index": 8
+      }
+    ]
+  },
+  {
+    "person": "F",
+    "constraints": [
+      {
+        "kind": "beside_object",
+        "negated": false,
+        "obj": "tv"
+      }
+    ]
+  },
+  {
+    "person": "G",
+    "constraints": [
+      {
+        "kind": "on_object",
+        "negated": false,
+        "obj": "chair"
+      }
+    ]
+  },
+  {
+    "person": "H",
+    "constraints": [
+      {
+        "kind": "in_area",
+        "negated": false,
+        "area": "BATHROOM"
+      }
+    ]
+  },
+  {
+    "person": "V",
+    "constraints": [
+      {
+        "kind": "area_count",
+        "negated": false,
+        "count": 2
+      }
+    ]
+  }
+]

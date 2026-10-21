@@ -1,0 +1,68 @@
+{
+    "objName_2_cells": {
+        "bed": [
+            [4, 4],
+            [4, 5],
+            [7, 0],
+            [8, 0]
+        ],
+        "shelf": [
+            [6, 5],
+            [8, 1],
+            [8, 7],
+            [5, 7],
+            [3, 6],
+            [5, 3]
+        ],
+        "box": [
+            [8, 4],
+            [7, 7],
+            [5, 8],
+            [1, 7],
+            [7, 2],
+            [8, 6],
+            [6, 6],
+            [7, 8]
+        ],
+        "bush": [
+            [2, 8],
+            [3, 0]
+        ],
+        "car": [
+            [0, 7],
+            [0, 6]
+        ],
+        "chair": [
+            [2, 4],
+            [7, 1],
+            [5, 1],
+            [1, 4],
+            [3, 3]
+        ],
+        "table": [
+            [6, 2],
+            [1, 2],
+            [2, 1],
+            [4, 3],
+            [1, 1],
+            [2, 3],
+            [6, 0],
+            [5, 2]
+        ],
+        "tv": [
+            [6, 1],
+            [2, 6]
+        ]
+    },
+    "cells_2_objName": [
+        [null, null, null, null, null, null, "car", "car", null],
+        [null, "table", "table", null, "chair", null, null, "box", null],
+        [null, "table", null, "table", "chair", null, "tv", null, "bush"],
+        ["bush", null, null, "chair", null, null, "shelf", null, null],
+        [null, null, null, "table", "bed", "bed", null, null, null],
+        [null, "chair", "table", "shelf", null, null, null, "shelf", "box"],
+        ["table", "tv", "table", null, null, "shelf", "box", null, null],
+        ["bed", "chair", "box", null, null, null, null, "box", "box"],
+        ["bed", "shelf", null, null, "box", null, "box", "shelf", null]
+    ]
+}

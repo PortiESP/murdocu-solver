@@ -1,0 +1,26 @@
+{
+    "cookies": [],
+    "origins": [
+        {
+            "origin": "https://murdoku.com",
+            "localStorage": [
+                {
+                    "name": "mrd_intro_seen_v1",
+                    "value": "true"
+                },
+                {
+                    "name": "mrd_gender_colors",
+                    "value": "true"
+                },
+                {
+                    "name": "mrd_gender_colors_touched",
+                    "value": "true"
+                },
+                {
+                    "name": "lang",
+                    "value": "en"
+                }
+            ]
+        }
+    ]
+}

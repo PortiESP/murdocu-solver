@@ -1,0 +1,47 @@
+{
+    "A": {
+        "name": "Angelo",
+        "description": "There was a box in his area. He was not beside it.",
+        "gender": "man"
+    },
+    "B": {
+        "name": "Blake",
+        "description": "He was in the Bedroom.",
+        "gender": "man"
+    },
+    "C": {
+        "name": "Carolina",
+        "description": "There was a man on the bed in her room.",
+        "gender": "woman"
+    },
+    "D": {
+        "name": "Darla",
+        "description": "Someone else was beside a shelf in her area.",
+        "gender": "woman"
+    },
+    "E": {
+        "name": "Emelia",
+        "description": "She was in the bottom row.",
+        "gender": "woman"
+    },
+    "F": {
+        "name": "Friedrich",
+        "description": "He was beside a TV.",
+        "gender": "man"
+    },
+    "G": {
+        "name": "Grady",
+        "description": "He was sitting in a chair.",
+        "gender": "man"
+    },
+    "H": {
+        "name": "Howie",
+        "description": "He was in the Bathroom.",
+        "gender": "man"
+    },
+    "V": {
+        "name": "Vivianna",
+        "description": "The Victim. She was alone with the murderer.",
+        "gender": "woman"
+    }
+}
